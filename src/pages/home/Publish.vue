@@ -48,7 +48,7 @@
     </div>
   </div>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import { onMounted, ref } from 'vue'
 import { useRouter } from 'vue-router'
 

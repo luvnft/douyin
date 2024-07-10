@@ -8,7 +8,7 @@
     <div class="content"></div>
   </div>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 //TODO 动画效果麻烦
 import { useNav } from '@/utils/hooks/useNav'
 

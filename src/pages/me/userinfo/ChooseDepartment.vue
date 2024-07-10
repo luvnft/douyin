@@ -23,7 +23,7 @@
   </div>
 </template>
 
-<script setup lang="ts">
+<script setup lang="en">
 import { onMounted, reactive } from 'vue'
 import { useNav } from '@/utils/hooks/useNav.js'
 import { useRouter } from 'vue-router'

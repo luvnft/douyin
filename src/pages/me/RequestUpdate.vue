@@ -60,7 +60,7 @@
     </from-bottom-dialog>
   </div>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import FromBottomDialog from '../../components/dialog/FromBottomDialog.vue'
 import { useBaseStore } from '@/store/pinia'
 import { onMounted, reactive } from 'vue'

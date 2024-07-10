@@ -27,7 +27,7 @@
   </div>
 </template>
 
-<script setup lang="ts">
+<script setup lang="en">
 import { onMounted, reactive } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { _notice } from '@/utils'

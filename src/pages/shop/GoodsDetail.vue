@@ -347,7 +347,7 @@
   </div>
 </template>
 
-<script setup lang="ts">
+<script setup lang="en">
 import SlideHorizontal from '@/components/slide/SlideHorizontal.vue'
 import SlideItem from '@/components/slide/SlideItem.vue'
 import { onMounted, onUnmounted, reactive, ref } from 'vue'

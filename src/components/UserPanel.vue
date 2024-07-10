@@ -228,7 +228,7 @@
   </div>
 </template>
 
-<script setup lang="ts">
+<script setup lang="en">
 import { reactive, ref, watch } from 'vue'
 import {
   _checkImgUrl,

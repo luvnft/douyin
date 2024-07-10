@@ -56,7 +56,7 @@
     </div>
   </div>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import People from './components/People.vue'
 import Search from '../../components/Search.vue'
 import Indicator from '../../components/slide/Indicator.vue'

@@ -118,7 +118,7 @@
     <ShareToFriend pageId="Music" v-model="data.shareToFriend" />
   </div>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import Posters from '../../components/Posters.vue'
 import Scroll from '../../components/Scroll.vue'
 import Loading from '../../components/Loading.vue'

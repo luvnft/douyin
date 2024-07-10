@@ -14,7 +14,7 @@
     <slot name="bottom"></slot>
   </div>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import { useAttrs } from 'vue'
 import { useRouter } from 'vue-router'
 

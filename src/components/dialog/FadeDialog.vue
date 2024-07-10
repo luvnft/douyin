@@ -4,7 +4,7 @@
   </div>
 </template>
 
-<script setup lang="ts">
+<script setup lang="en">
 defineOptions({ name: 'FadeDialog' })
 </script>
 

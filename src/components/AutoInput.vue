@@ -10,7 +10,7 @@
   </div>
 </template>
 
-<script lang="ts">
+<script lang="en">
 export default {
   name: 'AutoInput',
   props: {

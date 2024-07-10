@@ -162,7 +162,7 @@
     </transition>
   </div>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import Switches from '../message/components/swtich/switches.vue'
 import IndicatorLight from '../../components/slide/IndicatorLight.vue'
 import GuessMusic from './components/GuessMusic.vue'

@@ -76,7 +76,7 @@
   </div>
 </template>
 
-<script setup lang="ts">
+<script setup lang="en">
 import { _checkImgUrl, _duration, _stopPropagation } from '@/utils'
 import Loading from '../Loading.vue'
 import ItemToolbar from './ItemToolbar.vue'

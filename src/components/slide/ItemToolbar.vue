@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script setup lang="en">
 import BaseMusic from '../BaseMusic.vue'
 import { _formatNumber, cloneDeep } from '@/utils'
 import bus, { EVENT_KEY } from '@/utils/bus'

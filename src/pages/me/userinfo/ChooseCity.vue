@@ -15,7 +15,7 @@
   </div>
 </template>
 
-<script setup lang="ts">
+<script setup lang="en">
 import { ref } from 'vue'
 import { _hideLoading, _showLoading, _sleep } from '@/utils'
 import { useBaseStore } from '@/store/pinia'

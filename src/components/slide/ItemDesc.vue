@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script setup lang="en">
 import { inject, reactive } from 'vue'
 
 const props = defineProps({

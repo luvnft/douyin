@@ -3,7 +3,7 @@
     <Slide4 :active="state.navIndex === 4 && state.baseIndex === 1" />
   </div>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import { reactive } from 'vue'
 import Slide4 from '@/pages/home/slide/Slide4.vue'
 

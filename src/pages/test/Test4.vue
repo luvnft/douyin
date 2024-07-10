@@ -5,7 +5,7 @@
     <VideoShare v-model="t" page-id="Test" />
   </div>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import BaseButton from '../../components/BaseButton.vue'
 import VideoShare from '../home/components/VideoShare.vue'
 import { ref } from 'vue'

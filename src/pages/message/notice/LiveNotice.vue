@@ -23,7 +23,7 @@
     </div>
   </div>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import { nextTick, onMounted, reactive } from 'vue'
 import Scroll from '@/components/Scroll.vue'
 import { useNav } from '@/utils/hooks/useNav'

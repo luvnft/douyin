@@ -18,7 +18,7 @@
     </div>
   </div>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import People from './components/People.vue'
 import { reactive } from 'vue'
 

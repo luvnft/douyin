@@ -38,7 +38,7 @@
     </div>
   </div>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import Check from '../../components/Check.vue'
 import { friends } from '@/api/user'
 

@@ -86,7 +86,7 @@
     </from-bottom-dialog>
   </div>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import Peoples from '../people/components/Peoples.vue'
 import NoMore from '@/components/NoMore.vue'
 import FromBottomDialog from '@/components/dialog/FromBottomDialog.vue'

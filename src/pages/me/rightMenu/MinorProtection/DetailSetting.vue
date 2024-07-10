@@ -69,7 +69,7 @@
     </div>
   </div>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import enums from '@/utils/enums'
 
 import { onMounted, reactive } from 'vue'

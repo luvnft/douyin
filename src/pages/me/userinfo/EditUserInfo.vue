@@ -85,7 +85,7 @@
   </div>
 </template>
 
-<script setup lang="ts">
+<script setup lang="en">
 import MobileSelect from '../../../components/mobile-select/mobile-select'
 import { useBaseStore } from '@/store/pinia'
 import {

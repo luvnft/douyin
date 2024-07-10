@@ -422,7 +422,7 @@
   </div>
 </template>
 
-<script setup lang="ts">
+<script setup lang="en">
 import Search from '../../components/Search.vue'
 import FromBottomDialog from '../../components/dialog/FromBottomDialog.vue'
 import Check from '../../components/Check.vue'

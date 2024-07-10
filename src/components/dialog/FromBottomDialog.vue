@@ -19,7 +19,7 @@
   </Transition>
 </template>
 
-<script setup lang="ts">
+<script setup lang="en">
 import { ref, watch } from 'vue'
 import Dom, { _css } from '../../utils/dom'
 import bus, { EVENT_KEY } from '@/utils/bus'

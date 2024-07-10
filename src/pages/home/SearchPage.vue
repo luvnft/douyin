@@ -243,7 +243,7 @@
     </div>
   </div>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import Search from '../../components/Search.vue'
 import Dom from '../../utils/dom'
 import { computed, nextTick, onMounted, reactive, watch } from 'vue'

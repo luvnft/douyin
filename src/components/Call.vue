@@ -82,7 +82,7 @@
     </div>
   </transition>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import { onMounted, reactive, watch } from 'vue'
 import bus, { EVENT_KEY } from '@/utils/bus'
 

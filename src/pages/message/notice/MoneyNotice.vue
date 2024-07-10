@@ -73,7 +73,7 @@
     </from-bottom-dialog>
   </div>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import { nextTick, onMounted, reactive } from 'vue'
 import FromBottomDialog from '@/components/dialog/FromBottomDialog.vue'
 import Scroll from '@/components/Scroll.vue'

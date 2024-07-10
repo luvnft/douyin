@@ -71,7 +71,7 @@
     </div>
   </div>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import Check from '../../components/Check.vue'
 import Tooltip from './components/Tooltip.vue'
 import Loading from '../../components/Loading.vue'

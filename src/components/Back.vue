@@ -1,7 +1,7 @@
 <template>
   <img class="close" ref="imgEl" :src="src" />
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import { _css } from '@/utils/dom'
 import { onMounted } from 'vue'
 

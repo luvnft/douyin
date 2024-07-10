@@ -8,7 +8,7 @@
   </router-view>
   <Call />
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 /*
 * try {navigator.control.gesture(false);} catch (e) {} //UC浏览器关闭默认手势事件
 try {navigator.control.longpressMenu(false);} catch (e) {} //关闭长按弹出菜单

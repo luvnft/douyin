@@ -52,7 +52,7 @@
     </div>
   </div>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import { onMounted, reactive } from 'vue'
 import { useRoute } from 'vue-router'
 import { _hideLoading, _no, _showLoading, _sleep } from '@/utils'

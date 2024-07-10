@@ -185,7 +185,7 @@
     <Loading v-if="data.loading" />
   </div>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import ChatMessage from '../components/ChatMessage.vue'
 import { computed, nextTick, onMounted, onUnmounted, reactive, ref } from 'vue'
 import Loading from '@/components/Loading.vue'

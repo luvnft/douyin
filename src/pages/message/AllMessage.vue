@@ -73,7 +73,7 @@
     </Scroll>
   </div>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import Scroll from '@/components/Scroll.vue'
 import { useBaseStore } from '@/store/pinia'
 import { _checkImgUrl } from '@/utils'

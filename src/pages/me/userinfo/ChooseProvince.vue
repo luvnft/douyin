@@ -18,7 +18,7 @@
   </div>
 </template>
 
-<script setup lang="ts">
+<script setup lang="en">
 import { ref } from 'vue'
 import { useNav } from '@/utils/hooks/useNav.js'
 

@@ -38,7 +38,7 @@
   </div>
 </template>
 
-<script setup lang="ts">
+<script setup lang="en">
 import Share from '../../components/Share.vue'
 import { useBaseStore } from '@/store/pinia'
 import { _checkImgUrl, _no } from '@/utils'

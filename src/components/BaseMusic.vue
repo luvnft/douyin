@@ -25,7 +25,7 @@
     />
   </div>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import { inject, onMounted } from 'vue'
 import bus, { EVENT_KEY } from '@/utils/bus'
 import { Icon } from '@iconify/vue'

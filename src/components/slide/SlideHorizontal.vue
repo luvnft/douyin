@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script setup lang="en">
 import { onMounted, onUnmounted, reactive, ref, watch } from 'vue'
 import {
   getSlideOffset,

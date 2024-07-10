@@ -176,7 +176,7 @@
     </div>
   </div>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import { ref } from 'vue'
 
 const gitLastCommitHash = ref(LATEST_COMMIT_HASH)

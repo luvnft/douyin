@@ -72,7 +72,7 @@
     </div>
   </div>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import Switches from '../components/swtich/switches.vue'
 import { onMounted, reactive } from 'vue'
 import { useRoute } from 'vue-router'

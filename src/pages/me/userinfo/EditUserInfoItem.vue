@@ -61,7 +61,7 @@
   </div>
 </template>
 
-<script setup lang="ts">
+<script setup lang="en">
 //TODO 1、数据变了后，保存按钮变亮；2、数据变了，点返回，弹窗是否确认
 
 import { useBaseStore } from '@/store/pinia'

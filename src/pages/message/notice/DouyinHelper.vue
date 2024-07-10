@@ -28,7 +28,7 @@
     </Scroll>
   </div>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import { nextTick, onMounted, reactive } from 'vue'
 import Scroll from '@/components/Scroll.vue'
 import { _no, _sleep } from '@/utils'

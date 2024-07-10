@@ -56,7 +56,7 @@
     <BlockDialog v-model="data.blockDialog" />
   </div>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import Switches from '../components/swtich/switches.vue'
 import People from '../../people/components/People.vue'
 import BlockDialog from '../components/BlockDialog.vue'

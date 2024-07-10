@@ -18,7 +18,7 @@
     </div>
   </div>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import Search from '@/components/Search.vue'
 import People from '../people/components/Peoples.vue'
 import { useBaseStore } from '@/store/pinia'

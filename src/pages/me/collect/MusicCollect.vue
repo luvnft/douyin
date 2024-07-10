@@ -82,7 +82,7 @@
     </div>
   </div>
 </template>
-<script setup lang="ts">
+<script setup lang="en">
 import { userCollect } from '@/api/user'
 
 import { onMounted, onUnmounted, reactive } from 'vue'

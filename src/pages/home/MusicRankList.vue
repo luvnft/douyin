@@ -302,7 +302,7 @@
   </div>
 </template>
 
-<script setup lang="ts">
+<script setup lang="en">
 import { useRouter } from 'vue-router'
 import { computed, onDeactivated, onMounted, onUnmounted, reactive } from 'vue'
 import { _checkImgUrl, _dateFormat, _duration, _formatNumber, _notice } from '@/utils/index.jsx'
